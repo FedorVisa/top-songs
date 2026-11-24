@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#11151a">
+  <meta name="description" content="A personal archive of the songs that never get old.">
+  <title>My Top 100 Songs of All Time</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <header class="top">
+    <a href="#strokes" class="brand" id="home" aria-label="First song">
+      <span class="logo">♫</span>
+      <span>My Top 100<small>Songs of all time</small></span>
+    </a>
+    <div class="top-info">A personal archive<br><b id="edition">—</b></div>
+  </header>
+
+  <main id="deck" class="deck" tabindex="0" aria-label="Song ranking">
+    <p id="load-error" class="load-error" role="alert" hidden>The song list could not be loaded.</p>
+  </main>
+  <nav class="dotnav" id="dotnav" aria-label="Select a song"></nav>
+
+  <footer class="bottom">
+    <div class="counter"><b id="current">01</b><span> / <span id="total">—</span></span></div>
+    <div class="progress" aria-hidden="true"><i id="progress"></i></div>
+    <div class="control">
+      <small>Navigate</small>
+      <button id="prev" aria-label="Previous song" disabled>↑</button>
+      <button id="next" aria-label="Next song" disabled>↓</button>
+    </div>
+  </footer>
+
+  <script type="module" src="./js/app.js"></script>
+</body>
+</html>

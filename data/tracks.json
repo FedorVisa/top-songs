@@ -1,0 +1,339 @@
+[
+  {
+    "id": "strokes",
+    "title": "The Adults Are Talking",
+    "lines": [
+      "The Adults",
+      "Are Talking"
+    ],
+    "artist": "The Strokes",
+    "album": "The New Abnormal",
+    "year": 2020,
+    "accent": "#F6D474",
+    "glow": "#3B5A61",
+    "bg": "#10191C",
+    "source": "https://music.apple.com/us/album/the-adults-are-talking/1498121188?i=1498121711",
+    "cover": "./assets/covers/strokes.jpg"
+  },
+  {
+    "id": "madvillain",
+    "title": "All Caps",
+    "lines": [
+      "All Caps"
+    ],
+    "artist": "Madvillain",
+    "album": "Madvillainy",
+    "year": 2004,
+    "accent": "#F4BA86",
+    "glow": "#58534F",
+    "bg": "#171619",
+    "source": "https://www.youtube.com/results?search_query=Madvillain+All+Caps",
+    "cover": "./assets/covers/madvillain.jpg"
+  },
+  {
+    "id": "plastic",
+    "title": "Plastic Beach",
+    "lines": [
+      "Plastic",
+      "Beach"
+    ],
+    "artist": "Gorillaz",
+    "album": "Plastic Beach",
+    "year": 2010,
+    "accent": "#F8BE96",
+    "glow": "#794334",
+    "bg": "#241717",
+    "source": "https://music.apple.com/us/album/plastic-beach-feat-mick-jones-and-paul-simonon/850569437?i=850569484",
+    "cover": "./assets/covers/plastic.jpg"
+  },
+  {
+    "id": "discovery",
+    "title": "Veridis Quo",
+    "lines": [
+      "Veridis",
+      "Quo"
+    ],
+    "artist": "Daft Punk",
+    "album": "Discovery",
+    "year": 2001,
+    "accent": "#BBCDFC",
+    "glow": "#3E4968",
+    "bg": "#10111C",
+    "source": "https://music.apple.com/us/album/veridis-quo/697194953?i=697196125",
+    "cover": "./assets/covers/discovery.jpg"
+  },
+  {
+    "id": "ram",
+    "title": "Touch",
+    "lines": [
+      "Touch"
+    ],
+    "artist": "Daft Punk feat. Paul Williams",
+    "album": "Random Access Memories",
+    "year": 2013,
+    "accent": "#F3C887",
+    "glow": "#6A4831",
+    "bg": "#1C1714",
+    "source": "https://music.apple.com/us/album/touch/617154241?i=617154364",
+    "cover": "./assets/covers/ram.jpg"
+  },
+  {
+    "id": "yeezus",
+    "title": "Bound 2",
+    "lines": [
+      "Bound 2"
+    ],
+    "artist": "Kanye West",
+    "album": "Yeezus",
+    "year": 2013,
+    "accent": "#F58E80",
+    "glow": "#555B5B",
+    "bg": "#191B1D",
+    "source": "https://www.youtube.com/results?search_query=Kanye+West+Bound+2",
+    "cover": "./assets/covers/yeezus.webp"
+  },
+  {
+    "id": "graduation",
+    "title": "Homecoming",
+    "lines": [
+      "Homecoming"
+    ],
+    "artist": "Kanye West",
+    "album": "Graduation",
+    "year": 2007,
+    "accent": "#FFC0E0",
+    "glow": "#70466C",
+    "bg": "#21172C",
+    "source": "https://music.apple.com/us/album/homecoming-feat-chris-martin/1442845779?i=1442846735",
+    "cover": "./assets/covers/graduation.jpg"
+  },
+  {
+    "id": "crimson",
+    "title": "The Court of the Crimson King",
+    "lines": [
+      "The Court of the",
+      "Crimson King"
+    ],
+    "artist": "King Crimson",
+    "album": "In the Court of the Crimson King",
+    "year": 1969,
+    "accent": "#EFB1A8",
+    "glow": "#703939",
+    "bg": "#20181B",
+    "cover": "./assets/covers/crimson.jpg"
+  },
+  {
+    "id": "beatles",
+    "title": "Strawberry Fields Forever",
+    "lines": [
+      "Strawberry Fields",
+      "Forever"
+    ],
+    "artist": "The Beatles",
+    "album": "Magical Mystery Tour",
+    "year": 1967,
+    "accent": "#F7D66F",
+    "glow": "#79602D",
+    "bg": "#211B25",
+    "cover": "./assets/covers/beatles.jpg"
+  },
+  {
+    "id": "elton",
+    "title": "Goodbye Yellow Brick Road",
+    "lines": [
+      "Goodbye Yellow",
+      "Brick Road"
+    ],
+    "artist": "Elton John",
+    "album": "Goodbye Yellow Brick Road",
+    "year": 1973,
+    "accent": "#E8CD87",
+    "glow": "#77653F",
+    "bg": "#211D18",
+    "cover": "./assets/covers/elton.jpg"
+  },
+  {
+    "id": "fugazi",
+    "title": "I'm So Tired",
+    "lines": [
+      "I'm So Tired"
+    ],
+    "artist": "Fugazi",
+    "album": "Instrument Soundtrack",
+    "year": 1999,
+    "accent": "#F6B56E",
+    "glow": "#7B4527",
+    "bg": "#201714",
+    "cover": "./assets/covers/fugazi.jpg"
+  },
+  {
+    "id": "cure",
+    "title": "Boys Don't Cry",
+    "lines": [
+      "Boys Don't Cry"
+    ],
+    "artist": "The Cure",
+    "album": "Boys Don't Cry",
+    "year": 1979,
+    "accent": "#F1D55F",
+    "glow": "#285E77",
+    "bg": "#152329",
+    "cover": "./assets/covers/cure.jpg"
+  },
+  {
+    "id": "smiths",
+    "title": "This Charming Man",
+    "lines": [
+      "This Charming",
+      "Man"
+    ],
+    "artist": "The Smiths",
+    "album": "The Smiths",
+    "year": 1983,
+    "accent": "#DFB4D6",
+    "glow": "#65405E",
+    "bg": "#211822",
+    "cover": "./assets/covers/smiths.jpg"
+  },
+  {
+    "id": "clash",
+    "title": "London Calling",
+    "lines": [
+      "London Calling"
+    ],
+    "artist": "The Clash",
+    "album": "London Calling",
+    "year": 1979,
+    "accent": "#ECA2A8",
+    "glow": "#364C3C",
+    "bg": "#181C18",
+    "cover": "./assets/covers/clash.jpg"
+  },
+  {
+    "id": "machinegirl",
+    "title": "Ghost",
+    "lines": [
+      "Ghost"
+    ],
+    "artist": "Machine Girl",
+    "album": "WLFGRL",
+    "year": 2014,
+    "accent": "#D6EB76",
+    "glow": "#40592E",
+    "bg": "#152019",
+    "cover": "./assets/covers/machinegirl.jpg"
+  },
+  {
+    "id": "radiohead",
+    "title": "Karma Police",
+    "lines": [
+      "Karma Police"
+    ],
+    "artist": "Radiohead",
+    "album": "OK Computer",
+    "year": 1997,
+    "accent": "#BBE2EC",
+    "glow": "#486B80",
+    "bg": "#17222C",
+    "cover": "./assets/covers/radiohead.jpg"
+  },
+  {
+    "id": "mosdef",
+    "title": "Ms. Fat Booty",
+    "lines": [
+      "Ms. Fat Booty"
+    ],
+    "artist": "Mos Def",
+    "album": "Black on Both Sides",
+    "year": 1999,
+    "accent": "#E7B36D",
+    "glow": "#6F4227",
+    "bg": "#1C1715",
+    "cover": "./assets/covers/mosdef.jpg"
+  },
+  {
+    "id": "cage",
+    "title": "Telescope",
+    "lines": [
+      "Telescope"
+    ],
+    "artist": "Cage the Elephant",
+    "album": "Melophobia",
+    "year": 2013,
+    "accent": "#F1B29B",
+    "glow": "#71534B",
+    "bg": "#24201E",
+    "cover": "./assets/covers/cage.jpg"
+  },
+  {
+    "id": "justice",
+    "title": "Valentine",
+    "lines": [
+      "Valentine"
+    ],
+    "artist": "Justice",
+    "album": "† (Cross)",
+    "year": 2007,
+    "accent": "#E4BD6B",
+    "glow": "#5F4823",
+    "bg": "#1A1712",
+    "cover": "./assets/covers/justice.jpg"
+  },
+  {
+    "id": "aphex",
+    "title": "Xtal",
+    "lines": [
+      "Xtal"
+    ],
+    "artist": "Aphex Twin",
+    "album": "Selected Ambient Works 85–92",
+    "year": 1992,
+    "accent": "#DDE3E8",
+    "glow": "#50535B",
+    "bg": "#17191E",
+    "cover": "./assets/covers/aphex.jpg"
+  },
+  {
+    "id": "nujabes",
+    "title": "Peaceland",
+    "lines": [
+      "Peaceland"
+    ],
+    "artist": "Nujabes",
+    "album": "Metaphorical Music",
+    "year": 2003,
+    "accent": "#E3B898",
+    "glow": "#5F6F53",
+    "bg": "#20271F",
+    "cover": "./assets/covers/nujabes.jpg"
+  },
+  {
+    "id": "deathgrips",
+    "title": "The Fever (Aye Aye)",
+    "lines": [
+      "The Fever",
+      "(Aye Aye)"
+    ],
+    "artist": "Death Grips",
+    "album": "The Money Store",
+    "year": 2012,
+    "accent": "#E1E1E0",
+    "glow": "#505154",
+    "bg": "#19191B",
+    "cover": "./assets/covers/deathgrips.jpg"
+  },
+  {
+    "id": "danny",
+    "title": "Ain't It Funny",
+    "lines": [
+      "Ain't It Funny"
+    ],
+    "artist": "Danny Brown",
+    "album": "Atrocity Exhibition",
+    "year": 2016,
+    "accent": "#B6A2FF",
+    "glow": "#443B76",
+    "bg": "#19162A",
+    "cover": "./assets/covers/danny.jpg"
+  }
+]
